@@ -88233,6 +88233,13085 @@ return [[
 				"partitionGuid": "9260FEDE-4F17-11E0-8C2C-90572F31AA07"
 			},
 			"origin": 2
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "0b721e0c-04a4-a931-0824-09bb8d473546",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "0B721E0C-04A4-A931-0824-9BB8D4735407",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.04983520508,
+					"y": 285.61309814453,
+					"z": -258.85144042969
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "965a72c8-9994-f225-c0ce-5b8b44d10044",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -308.54974365234,
+					"y": 281.45556640625,
+					"z": -263.37896728516
+				}
+			},
+			"guid": "965A72C8-9994-F225-C0CE-5B8B44D10046",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "1f39f7d4-a89f-3d3e-14e2-77dc9ec00faf",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "1F39F7D4-A89F-3D3E-14E2-77DC9EC00FB0",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -319.6979675293,
+					"y": 281.45556640625,
+					"z": -262.41061401367
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -298.90374755859,
+					"y": 277.95556640625,
+					"z": -239.99612426758
+				}
+			},
+			"guid": "0975d040-df52-a3dd-0028-1303c796c14b",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -320.42474365234,
+					"y": 277.95556640625,
+					"z": -297.12005615234
+				}
+			},
+			"guid": "2417b70b-9169-5237-d6cd-2e1406931d4a",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "3b34e272-2f8c-49c5-bd86-010cf9993c00",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "3B34E272-2F8C-49C5-BD86-10CF9993C002",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -292.92251586914,
+					"y": 285.58999633789,
+					"z": -257.78442382812
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "56041647-210f-b50e-c1df-29de43be827d",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -327.35205078125,
+					"y": 285.60803222656,
+					"z": -311.47445678711
+				}
+			},
+			"guid": "56041647-210F-B50E-C1DF-29DE43BE827F",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "fda46e4d-f969-0684-4974-830bb09dc9ae",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "FDA46E4D-F969-0684-4974-830BB09DC9AF",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -296.79809570312,
+					"y": 281.45556640625,
+					"z": -229.40957641602
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a9e7bb6a-a00d-fcab-3b25-438283a695e3",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A9E7BB6A-A00D-FCAB-3B25-438283A695E5",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -278.11151123047,
+					"y": 281.45556640625,
+					"z": -238.06834411621
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "0405d508-cdf6-d0d6-67ef-3b4c36e7adbf",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "0405D508-CDF6-D0D6-67EF-3B4C36E7ADC0",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -305.92977905273,
+					"y": 285.61309814453,
+					"z": -254.73139953613
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.07220458984,
+					"y": 286.59188842773,
+					"z": -353.56942749023
+				}
+			},
+			"guid": "a491841d-baf9-29df-d88d-5014e2ae7a49",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "c6eaeade-8442-ccf9-f6a7-4ea5100bcf4b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "C6EAEADE-8442-CCF9-F6A7-4EA5100BCF4D",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.45199584961,
+					"y": 285.93594360352,
+					"z": -332.33807373047
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -305.92977905273,
+					"y": 282.11309814453,
+					"z": -254.73139953613
+				}
+			},
+			"guid": "0405d508-cdf6-d0d6-67ef-3b4c36e7adbf",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -331.76025390625,
+					"y": 282.10803222656,
+					"z": -307.06625366211
+				}
+			},
+			"guid": "7546759b-6456-6a4e-239b-27953167ec54",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.91882324219,
+					"y": 277.95556640625,
+					"z": -265.18975830078
+				}
+			},
+			"guid": "32e335c8-ea63-104f-1d6e-a495e7eaebb0",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8b68fef7-30b8-7379-23f6-e5b57448a3eb",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "8B68FEF7-30B8-7379-23F6-E5B57448A3ED",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -284.63973999023,
+					"y": 290.09188842773,
+					"z": -360.12677001953
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "a60af6f5-6651-4dfc-2bed-450404deb409",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A60AF6F5-6651-4DFC-2BED-450404DEB40B",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -301.64025878906,
+					"y": 285.58999633789,
+					"z": -266.10815429688
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "06f25cd2-c3c0-5030-1072-41244564cf43",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.72903442383,
+					"y": 290.06948852539,
+					"z": -372.07580566406
+				}
+			},
+			"guid": "06F25CD2-C3C0-5030-1072-41244564CF44",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "784bb080-723e-d82c-2715-930e0d14cfa6",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "784BB080-723E-D82C-2715-930E0D14CFA7",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -321.7912902832,
+					"y": 285.60803222656,
+					"z": -317.03521728516
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "81cacfce-4962-8d77-87d7-85bcd8a69825",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -320.59664916992,
+					"y": 285.93594360352,
+					"z": -327.19342041016
+				}
+			},
+			"guid": "81CACFCE-4962-8D77-87D7-85BCD8A69826",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "6ae988d9-f7af-3108-327a-7c52e69586ac",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "6AE988D9-F7AF-3108-327A-7C52E69586AD",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -318.90377807617,
+					"y": 285.60803222656,
+					"z": -319.92272949219
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "aa8a4f14-f335-2a1b-18b1-1dc5d71967d0",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "AA8A4F14-F335-2A1B-18B1-1DC5D71967D1",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -294.13815307617,
+					"y": 285.93594360352,
+					"z": -330.54949951172
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.90789794922,
+					"y": 277.95556640625,
+					"z": -227.27195739746
+				}
+			},
+			"guid": "a7bd8462-b8e6-8181-f4d3-572b841ba191",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -301.64025878906,
+					"y": 277.61999511719,
+					"z": -266.10815429688
+				}
+			},
+			"guid": "a60af6f5-6651-4dfc-2bed-450404deb409",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "096edc12-4f6b-6a9c-083a-b827bad04e7d",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "096EDC12-4F6B-6A9C-083A-B827BAD04E7E",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.37612915039,
+					"y": 281.45556640625,
+					"z": -290.75552368164
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -313.02529907227,
+					"y": 277.95556640625,
+					"z": -269.0832824707
+				}
+			},
+			"guid": "2ca5e684-b2df-baa5-0781-46f639dd356b",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "ab186e95-5e9e-2dc0-b8a0-33c1b4671ccf",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.52502441406,
+					"y": 281.45556640625,
+					"z": -273.45513916016
+				}
+			},
+			"guid": "AB186E95-5E9E-2DC0-B8A0-33C1B4671CD0",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "44c91df6-1e26-2975-8320-09110d956109",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -278.71151733398,
+					"y": 285.93594360352,
+					"z": -329.17602539062
+				}
+			},
+			"guid": "44C91DF6-1E26-2975-8320-9110D956100B",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -325.09762573242,
+					"y": 277.95556640625,
+					"z": -287.26333618164
+				}
+			},
+			"guid": "c9ce4044-d782-3172-bd29-a7a3208bc012",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -269.58151245117,
+					"y": 282.43869018555,
+					"z": -347.75805664062
+				}
+			},
+			"guid": "71aaac1c-bc2b-2e20-d0c9-fce87c77c1cd",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -313.7795715332,
+					"y": 282.11309814453,
+					"z": -262.58117675781
+				}
+			},
+			"guid": "d76dee33-6eee-faeb-da69-e2a311dda81c",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "c0ce9e12-a0d1-6fdd-4a14-b064e1ab6557",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "C0CE9E12-A0D1-6FDD-4A14-B064E1AB6558",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -282.73327636719,
+					"y": 290.06948852539,
+					"z": -366.0715637207
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "c9ce4044-d782-3172-bd29-a7a3208bc012",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "C9CE4044-D782-3172-BD29-A7A3208BC013",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -325.09762573242,
+					"y": 281.45556640625,
+					"z": -287.26333618164
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.24237060547,
+					"y": 282.43594360352,
+					"z": -331.95419311523
+				}
+			},
+			"guid": "87251820-f995-a640-f154-b9ba45a8326e",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "21dd40a9-384c-72fa-2d50-f70941db9533",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "21DD40A9-384C-72FA-2D50-F70941DB9534",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -305.3410949707,
+					"y": 281.45556640625,
+					"z": -261.76834106445
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -284.63973999023,
+					"y": 286.59188842773,
+					"z": -360.12677001953
+				}
+			},
+			"guid": "8b68fef7-30b8-7379-23f6-e5b57448a3eb",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "9831bb95-bf2d-de41-69d6-9666d815a14a",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "9831BB95-BF2D-DE41-69D6-9666D815A14C",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.80032348633,
+					"y": 285.61309814453,
+					"z": -265.78778076172
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "cf3ce9a3-6084-ad4d-668f-70f7376dcd4e",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "CF3CE9A3-6084-AD4D-668F-70F7376DCD4F",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.36386108398,
+					"y": 285.93594360352,
+					"z": -332.91198730469
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "3bb86f93-120b-03f6-c1a2-78b22c6d6d31",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "3BB86F93-120B-03F6-C1A2-78B22C6D6D32",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.60284423828,
+					"y": 285.93594360352,
+					"z": -318.19961547852
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -319.6979675293,
+					"y": 277.95556640625,
+					"z": -262.41061401367
+				}
+			},
+			"guid": "1f39f7d4-a89f-3d3e-14e2-77dc9ec00faf",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "99215337-265c-f894-34eb-66e6f5a4926a",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -306.25210571289,
+					"y": 285.58999633789,
+					"z": -270.21374511719
+				}
+			},
+			"guid": "99215337-265C-F894-34EB-66E6F5A4926B",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "0405d508-cdf6-d0d6-67ef-3b4c36e7adbf",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "0405D508-CDF6-D0D6-67EF-3B4C36E7ADC1",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -305.92977905273,
+					"y": 285.61309814453,
+					"z": -254.73139953613
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.37612915039,
+					"y": 277.95556640625,
+					"z": -290.75552368164
+				}
+			},
+			"guid": "096edc12-4f6b-6a9c-083a-b827bad04e7d",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "ff5fa084-c6f7-302f-4b85-d93aa8d917b4",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "FF5FA084-C6F7-302F-4B85-D93AA8D917B6",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -322.75360107422,
+					"y": 285.60803222656,
+					"z": -306.87600708008
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "737ad4ac-7e86-d7b0-093b-a8db56e6f29b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -267.26846313477,
+					"y": 285.93869018555,
+					"z": -354.56573486328
+				}
+			},
+			"guid": "737AD4AC-7E86-D7B0-093B-A8DB56E6F29D",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "737ad4ac-7e86-d7b0-093b-a8db56e6f29b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -267.26846313477,
+					"y": 285.93869018555,
+					"z": -354.56573486328
+				}
+			},
+			"guid": "737AD4AC-7E86-D7B0-093B-A8DB56E6F29C",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "965a72c8-9994-f225-c0ce-5b8b44d10044",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "965A72C8-9994-F225-C0CE-5B8B44D10045",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -308.54974365234,
+					"y": 281.45556640625,
+					"z": -263.37896728516
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -282.73327636719,
+					"y": 282.09948730469,
+					"z": -366.0715637207
+				}
+			},
+			"guid": "c0ce9e12-a0d1-6fdd-4a14-b064e1ab6557",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -317.81088256836,
+					"y": 277.95556640625,
+					"z": -294.50619506836
+				}
+			},
+			"guid": "84fff579-6860-3921-8288-cea23fad8000",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "39833994-8b18-2b42-ded1-a7d3b7da1906",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "39833994-8B18-2B42-DED1-A7D3B7DA1907",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -294.20867919922,
+					"y": 285.93594360352,
+					"z": -322.87051391602
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.45199584961,
+					"y": 282.43594360352,
+					"z": -332.33807373047
+				}
+			},
+			"guid": "c6eaeade-8442-ccf9-f6a7-4ea5100bcf4b",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a491841d-baf9-29df-d88d-5014e2ae7a49",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A491841D-BAF9-29DF-D88D-5014E2AE7A4A",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.07220458984,
+					"y": 290.09188842773,
+					"z": -353.56942749023
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.76583862305,
+					"y": 282.43869018555,
+					"z": -352.28753662109
+				}
+			},
+			"guid": "db697b56-9045-b0bd-c384-389d5ee63542",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "41064e6a-41cf-b4ab-82cf-abe077b1d7f5",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -306.90078735352,
+					"y": 281.45556640625,
+					"z": -290.80160522461
+				}
+			},
+			"guid": "41064E6A-41CF-B4AB-82CF-ABE077B1D7F7",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "41064e6a-41cf-b4ab-82cf-abe077b1d7f5",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -306.90078735352,
+					"y": 281.45556640625,
+					"z": -290.80160522461
+				}
+			},
+			"guid": "41064E6A-41CF-B4AB-82CF-ABE077B1D7F6",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -306.90078735352,
+					"y": 277.95556640625,
+					"z": -290.80160522461
+				}
+			},
+			"guid": "41064e6a-41cf-b4ab-82cf-abe077b1d7f5",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -294.13815307617,
+					"y": 282.43594360352,
+					"z": -330.54949951172
+				}
+			},
+			"guid": "aa8a4f14-f335-2a1b-18b1-1dc5d71967d0",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8d85b138-4a96-7e40-b3f2-8e2837a13f64",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -262.08255004883,
+					"y": 290.09188842773,
+					"z": -357.33197021484
+				}
+			},
+			"guid": "8D85B138-4A96-7E40-B3F2-8E2837A13F66",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8d85b138-4a96-7e40-b3f2-8e2837a13f64",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -262.08255004883,
+					"y": 290.09188842773,
+					"z": -357.33197021484
+				}
+			},
+			"guid": "8D85B138-4A96-7E40-B3F2-8E2837A13F65",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -256.13296508789,
+					"y": 271.56369018555,
+					"z": -154.15908813477
+				}
+			},
+			"origin": 2,
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"guid": "32401978-bc1c-5a26-2aa9-873cf998739b",
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -262.08255004883,
+					"y": 286.59188842773,
+					"z": -357.33197021484
+				}
+			},
+			"guid": "8d85b138-4a96-7e40-b3f2-8e2837a13f64",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "56041647-210f-b50e-c1df-29de43be827d",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "56041647-210F-B50E-C1DF-29DE43BE827E",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -327.35205078125,
+					"y": 285.60803222656,
+					"z": -311.47445678711
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a130f556-30f8-2d89-431f-753e1d5eb734",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -314.60803222656,
+					"y": 281.45556640625,
+					"z": -257.32067871094
+				}
+			},
+			"guid": "A130F556-30F8-2D89-431F-753E1D5EB736",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.51904296875,
+					"y": 282.43594360352,
+					"z": -339.62631225586
+				}
+			},
+			"guid": "282744cc-a16a-ffa1-bfcd-806e41ead432",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -278.11151123047,
+					"y": 277.95556640625,
+					"z": -238.06834411621
+				}
+			},
+			"guid": "a9e7bb6a-a00d-fcab-3b25-438283a695e3",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "784bb080-723e-d82c-2715-930e0d14cfa6",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "784BB080-723E-D82C-2715-930E0D14CFA8",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -321.7912902832,
+					"y": 285.60803222656,
+					"z": -317.03521728516
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -309.11935424805,
+					"y": 277.61999511719,
+					"z": -273.03701782227
+				}
+			},
+			"guid": "f533b4b5-9f10-1dd8-48dc-1c895c2240cc",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "a60af6f5-6651-4dfc-2bed-450404deb409",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A60AF6F5-6651-4DFC-2BED-450404DEB40A",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -301.64025878906,
+					"y": 285.58999633789,
+					"z": -266.10815429688
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "4fa8ea02-8b35-080c-a339-9707a7f802c3",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "4FA8EA02-8B35-080C-A339-9707A7F802C4",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -298.77301025391,
+					"y": 285.58999633789,
+					"z": -263.2848815918
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "1f39f7d4-a89f-3d3e-14e2-77dc9ec00faf",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "1F39F7D4-A89F-3D3E-14E2-77DC9EC00FB1",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -319.6979675293,
+					"y": 281.45556640625,
+					"z": -262.41061401367
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.869140625,
+					"y": 282.09948730469,
+					"z": -360.20742797852
+				}
+			},
+			"guid": "2cffc707-f2e4-4930-04ce-8512a039a30e",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a491841d-baf9-29df-d88d-5014e2ae7a49",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.07220458984,
+					"y": 290.09188842773,
+					"z": -353.56942749023
+				}
+			},
+			"guid": "A491841D-BAF9-29DF-D88D-5014E2AE7A4B",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "0297d6c5-5283-677e-713c-30bf3022bc63",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "0297D6C5-5283-677E-713C-30BF3022BC64",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -326.16616821289,
+					"y": 281.45556640625,
+					"z": -302.86148071289
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "71aaac1c-bc2b-2e20-d0c9-fce87c77c1cd",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "71AAAC1C-BC2B-2E20-D0C9-FCE87C77C1CF",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -269.58151245117,
+					"y": 285.93869018555,
+					"z": -347.75805664062
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -280.61248779297,
+					"y": 286.59188842773,
+					"z": -356.09951782227
+				}
+			},
+			"guid": "485651b5-461b-c88e-f5bf-46181f59ba3a",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8ef53541-e7ca-d785-18c1-bf2367aec8bd",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -322.09677124023,
+					"y": 281.45556640625,
+					"z": -290.26419067383
+				}
+			},
+			"guid": "8EF53541-E7CA-D785-18C1-BF2367AEC8BF",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "cf3ce9a3-6084-ad4d-668f-70f7376dcd4e",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "CF3CE9A3-6084-AD4D-668F-70F7376DCD50",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.36386108398,
+					"y": 285.93594360352,
+					"z": -332.91198730469
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "2417b70b-9169-5237-d6cd-2e1406931d4a",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -320.42474365234,
+					"y": 281.45556640625,
+					"z": -297.12005615234
+				}
+			},
+			"guid": "2417B70B-9169-5237-D6CD-2E1406931D4C",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "70dc49bd-d6d3-5022-7273-82f606f6d7c7",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "70DC49BD-D6D3-5022-7273-82F606F6D7C9",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.09295654297,
+					"y": 285.93594360352,
+					"z": -322.6897277832
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "3E76B6AD-0537-4F05-B343-70E7FDEEFF98",
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"guid": "d0cfcb43-e128-8b5f-267c-f886452f3822",
+				"primaryInstanceGuid": "60DB9BD1-F969-4C77-2272-F3F5850E1460",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Vehicles/Villa_SUV/Villa_SUV_01_static_DoorFL",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "74A929E0-A9F5-EE36-BECD-AD98B997D4C9",
+				"partitionGuid": "B41BE066-BDEA-11E0-9DA3-FB913CDC6349",
+				"name": "Vehicles/Villa_SUV/Villa_SUV_01_static_DoorFL"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 1.0511169433594,
+					"x": 0.95833343267441,
+					"z": 0.89626026153564
+				}
+			},
+			"guid": "D0CFCB43-E128-8B5F-267C-F886452F3826",
+			"transform": {
+				"left": {
+					"x": 0.82305699586868,
+					"y": 0,
+					"z": 0.56795877218246
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.56795877218246,
+					"y": 0,
+					"z": 0.82305699586868
+				},
+				"trans": {
+					"x": -269.12356567383,
+					"y": 275.71212768555,
+					"z": -214.77381896973
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "87251820-f995-a640-f154-b9ba45a8326e",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "87251820-F995-A640-F154-B9BA45A8326F",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.24237060547,
+					"y": 285.93594360352,
+					"z": -331.95419311523
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "2417b70b-9169-5237-d6cd-2e1406931d4a",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -320.42474365234,
+					"y": 281.45556640625,
+					"z": -297.12005615234
+				}
+			},
+			"guid": "2417B70B-9169-5237-D6CD-2E1406931D4B",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "F7BEAE6E-1603-4CB5-AE13-5F789BAAA029",
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"guid": "d0cfcb43-e128-8b5f-267c-f886452f3822",
+				"primaryInstanceGuid": "60DB9BD1-F969-4C77-2272-F3F5850E1460",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Vehicles/Villa_SUV/Villa_SUV_01_static_DoorFR",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "69295CFE-4B75-5B15-8BA6-D07C9699DFA7",
+				"partitionGuid": "BE58D5EE-BDEA-11E0-9DA3-FB913CDC6349",
+				"name": "Vehicles/Villa_SUV/Villa_SUV_01_static_DoorFR"
+			},
+			"transform": {
+				"left": {
+					"x": 0.82305699586868,
+					"y": 0,
+					"z": 0.56795877218246
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.56795877218246,
+					"y": 0,
+					"z": 0.82305699586868
+				},
+				"trans": {
+					"x": -270.70108032227,
+					"y": 275.71212768555,
+					"z": -215.86238098145
+				}
+			},
+			"guid": "D0CFCB43-E128-8B5F-267C-F886452F3827",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.52502441406,
+					"y": 277.95556640625,
+					"z": -273.45513916016
+				}
+			},
+			"guid": "ab186e95-5e9e-2dc0-b8a0-33c1b4671ccf",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "f646d38a-af9f-4d20-4b20-055f798705a5",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -302.79736328125,
+					"y": 285.93594360352,
+					"z": -322.5905456543
+				}
+			},
+			"guid": "F646D38A-AF9F-4D20-4B20-55F798705A07",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "c9ce4044-d782-3172-bd29-a7a3208bc012",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "C9CE4044-D782-3172-BD29-A7A3208BC014",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -325.09762573242,
+					"y": 281.45556640625,
+					"z": -287.26333618164
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "93ad441a-8277-afea-2d81-6b81c77333f8",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -303.265625,
+					"y": 281.45556640625,
+					"z": -287.16644287109
+				}
+			},
+			"guid": "93AD441A-8277-AFEA-2D81-6B81C77333F9",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "1e5882b4-dc2f-1903-0444-70052ebbad42",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -279.04495239258,
+					"y": 290.09188842773,
+					"z": -349.54217529297
+				}
+			},
+			"guid": "1E5882B4-DC2F-1903-0444-70052EBBAD44",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -323.38400268555,
+					"y": 277.95556640625,
+					"z": -300.07931518555
+				}
+			},
+			"guid": "c775382d-f19f-0bc6-d95c-7bff862a7617",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "ff5fa084-c6f7-302f-4b85-d93aa8d917b4",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "FF5FA084-C6F7-302F-4B85-D93AA8D917B5",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -322.75360107422,
+					"y": 285.60803222656,
+					"z": -306.87600708008
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -261.51229858398,
+					"y": 282.43869018555,
+					"z": -359.36499023438
+				}
+			},
+			"guid": "af9394b2-292d-9658-329a-e8260efc7dc0",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a8e20531-80f0-291b-c0dd-12f523b3de2e",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.83987426758,
+					"y": 281.45556640625,
+					"z": -294.74069213867
+				}
+			},
+			"guid": "A8E20531-80F0-291B-C0DD-12F523B3DE2F",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a7bd8462-b8e6-8181-f4d3-572b841ba191",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A7BD8462-B8E6-8181-F4D3-572B841BA192",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.90789794922,
+					"y": 281.45556640625,
+					"z": -227.27195739746
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -318.90377807617,
+					"y": 282.10803222656,
+					"z": -319.92272949219
+				}
+			},
+			"guid": "6ae988d9-f7af-3108-327a-7c52e69586ac",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "861b7c29-259f-f547-13cc-6d268574809b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "861B7C29-259F-F547-13CC-6D268574809D",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.07699584961,
+					"y": 281.45556640625,
+					"z": -233.10287475586
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.19039916992,
+					"y": 277.95556640625,
+					"z": -260.73831176758
+				}
+			},
+			"guid": "8e8c0444-6264-56af-fc58-429b96e7db80",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -282.12466430664,
+					"y": 282.43869018555,
+					"z": -357.64636230469
+				}
+			},
+			"guid": "fee206dc-a7e1-af44-6e8e-09cb4ccfeb7a",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "c775382d-f19f-0bc6-d95c-7bff862a7617",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -323.38400268555,
+					"y": 281.45556640625,
+					"z": -300.07931518555
+				}
+			},
+			"guid": "C775382D-F19F-0BC6-D95C-7BFF862A7618",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "c0ce9e12-a0d1-6fdd-4a14-b064e1ab6557",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "C0CE9E12-A0D1-6FDD-4A14-B064E1AB6559",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -282.73327636719,
+					"y": 290.06948852539,
+					"z": -366.0715637207
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "fee206dc-a7e1-af44-6e8e-09cb4ccfeb7a",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "FEE206DC-A7E1-AF44-6E8E-9CB4CCFEB70B",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -282.12466430664,
+					"y": 285.93869018555,
+					"z": -357.64636230469
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "304a4496-4d73-08ec-73f9-f45e59c39b10",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -271.96374511719,
+					"y": 290.09188842773,
+					"z": -347.45077514648
+				}
+			},
+			"guid": "304A4496-4D73-08EC-73F9-F45E59C39B11",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "32401978-bc1c-5a26-2aa9-873cf998739b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -256.13296508789,
+					"y": 275.06369018555,
+					"z": -154.15908813477
+				}
+			},
+			"guid": "32401978-BC1C-5A26-2AA9-873CF998739D",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -328.77590942383,
+					"y": 277.95556640625,
+					"z": -305.47122192383
+				}
+			},
+			"guid": "872748a8-4b6e-02f6-0eb3-d0b20b47410d",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8c071298-eefb-d3f7-2b4a-b178119d9e91",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "8C071298-EEFB-D3F7-2B4A-B178119D9E93",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -327.47021484375,
+					"y": 281.45556640625,
+					"z": -284.89074707031
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "861b7c29-259f-f547-13cc-6d268574809b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "861B7C29-259F-F547-13CC-6D268574809C",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.07699584961,
+					"y": 281.45556640625,
+					"z": -233.10287475586
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -324.52117919922,
+					"y": 282.10803222656,
+					"z": -314.30532836914
+				}
+			},
+			"guid": "cba615ff-e765-ead8-b4c7-7e9b10fb1cb8",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "84fff579-6860-3921-8288-cea23fad8000",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "84FFF579-6860-3921-8288-CEA23FAD8002",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -317.81088256836,
+					"y": 281.45556640625,
+					"z": -294.50619506836
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "af9394b2-292d-9658-329a-e8260efc7dc0",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -261.51229858398,
+					"y": 285.93869018555,
+					"z": -359.36499023438
+				}
+			},
+			"guid": "AF9394B2-292D-9658-329A-E8260EFC7DC1",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -327.47021484375,
+					"y": 277.95556640625,
+					"z": -284.89074707031
+				}
+			},
+			"guid": "8c071298-eefb-d3f7-2b4a-b178119d9e91",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "6F82E269-9815-4D83-8F5C-A8F6E75A2503",
+				"partitionGuid": "AE8637F4-427F-11E1-BEBB-E421CCF19395",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "AE8637F4-427F-11E1-BEBB-E421CCF19395",
+				"guid": "7420e330-05da-74ec-1f83-4d9ad180098d",
+				"primaryInstanceGuid": "170B1744-D913-A2C4-68F6-BA296FE5F24D",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "XP2/Objects/Spotlight_01/Spotlight_01_Lamp",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "7A5085A5-C139-D191-256A-0110720D93E8",
+				"partitionGuid": "9294033A-41CC-11E1-87E0-9235582E23D4",
+				"name": "XP2/Objects/Spotlight_01/Spotlight_01_Lamp"
+			},
+			"transform": {
+				"left": {
+					"x": 1.0606601238251,
+					"y": 0,
+					"z": -1.0606601238251
+				},
+				"up": {
+					"x": 0,
+					"y": 1.5,
+					"z": 0
+				},
+				"forward": {
+					"x": 1.0606601238251,
+					"y": 0,
+					"z": 1.0606601238251
+				},
+				"trans": {
+					"x": -291.50457763672,
+					"y": 285.02853393555,
+					"z": -335.18765258789
+				}
+			},
+			"guid": "7420E330-05DA-74EC-1F83-4D9AD180098E",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "096edc12-4f6b-6a9c-083a-b827bad04e7d",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "096EDC12-4F6B-6A9C-083A-B827BAD04E7F",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.37612915039,
+					"y": 281.45556640625,
+					"z": -290.75552368164
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "6F82E269-9815-4D83-8F5C-A8F6E75A2503",
+				"partitionGuid": "AE8637F4-427F-11E1-BEBB-E421CCF19395",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "AE8637F4-427F-11E1-BEBB-E421CCF19395",
+				"guid": "de482fbd-1b34-0eaf-1452-e12053100a47",
+				"primaryInstanceGuid": "170B1744-D913-A2C4-68F6-BA296FE5F24D",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "XP2/Objects/Spotlight_01/Spotlight_01_Lamp",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "7A5085A5-C139-D191-256A-0110720D93E8",
+				"partitionGuid": "9294033A-41CC-11E1-87E0-9235582E23D4",
+				"name": "XP2/Objects/Spotlight_01/Spotlight_01_Lamp"
+			},
+			"transform": {
+				"left": {
+					"x": 1.0606601238251,
+					"y": 0,
+					"z": -1.0606601238251
+				},
+				"up": {
+					"x": 0,
+					"y": 1.5,
+					"z": 0
+				},
+				"forward": {
+					"x": 1.0606601238251,
+					"y": 0,
+					"z": 1.0606601238251
+				},
+				"trans": {
+					"x": -298.11096191406,
+					"y": 285.02853393555,
+					"z": -341.79403686523
+				}
+			},
+			"guid": "DE482FBD-1B34-0EAF-1452-E12053100A48",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -267.26846313477,
+					"y": 282.43869018555,
+					"z": -354.56573486328
+				}
+			},
+			"guid": "737ad4ac-7e86-d7b0-093b-a8db56e6f29b",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "99215337-265c-f894-34eb-66e6f5a4926a",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -306.25210571289,
+					"y": 285.58999633789,
+					"z": -270.21374511719
+				}
+			},
+			"guid": "99215337-265C-F894-34EB-66E6F5A4926C",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "3a2fb056-f683-185b-2ccb-687790504ba3",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "3A2FB056-F683-185B-2CCB-687790504BA4",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -293.37579345703,
+					"y": 290.09188842773,
+					"z": -343.91244506836
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.75091552734,
+					"y": 277.95556640625,
+					"z": -286.13031005859
+				}
+			},
+			"guid": "e7dd2d4e-69cf-d8a9-6a76-3dd7110bdeb9",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -271.96374511719,
+					"y": 286.59188842773,
+					"z": -347.45077514648
+				}
+			},
+			"guid": "304a4496-4d73-08ec-73f9-f45e59c39b10",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -326.16616821289,
+					"y": 277.95556640625,
+					"z": -302.86148071289
+				}
+			},
+			"guid": "0297d6c5-5283-677e-713c-30bf3022bc63",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -294.20867919922,
+					"y": 282.43594360352,
+					"z": -322.87051391602
+				}
+			},
+			"guid": "39833994-8b18-2b42-ded1-a7d3b7da1906",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "71aaac1c-bc2b-2e20-d0c9-fce87c77c1cd",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -269.58151245117,
+					"y": 285.93869018555,
+					"z": -347.75805664062
+				}
+			},
+			"guid": "71AAAC1C-BC2B-2E20-D0C9-FCE87C77C1CE",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.74465942383,
+					"y": 277.95556640625,
+					"z": -258.17190551758
+				}
+			},
+			"guid": "1b71f0ff-38f4-1aa7-9a1b-a4ccc1c187e5",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "cba615ff-e765-ead8-b4c7-7e9b10fb1cb8",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "CBA615FF-E765-EAD8-B4C7-7E9B10FB1CB9",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -324.52117919922,
+					"y": 285.60803222656,
+					"z": -314.30532836914
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "f646d38a-af9f-4d20-4b20-055f798705a5",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -302.79736328125,
+					"y": 285.93594360352,
+					"z": -322.5905456543
+				}
+			},
+			"guid": "F646D38A-AF9F-4D20-4B20-55F798705A06",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -321.7912902832,
+					"y": 282.10803222656,
+					"z": -317.03521728516
+				}
+			},
+			"guid": "784bb080-723e-d82c-2715-930e0d14cfa6",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "32e335c8-ea63-104f-1d6e-a495e7eaebb0",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "32E335C8-EA63-104F-1D6E-A495E7EAEBB2",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.91882324219,
+					"y": 281.45556640625,
+					"z": -265.18975830078
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "fd03b7c5-6fa3-51cb-3098-c8d1e999e275",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -324.36282348633,
+					"y": 281.45556640625,
+					"z": -282.29293823242
+				}
+			},
+			"guid": "FD03B7C5-6FA3-51CB-3098-C8D1E999E277",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "fd03b7c5-6fa3-51cb-3098-c8d1e999e275",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -324.36282348633,
+					"y": 281.45556640625,
+					"z": -282.29293823242
+				}
+			},
+			"guid": "FD03B7C5-6FA3-51CB-3098-C8D1E999E276",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -324.36282348633,
+					"y": 277.95556640625,
+					"z": -282.29293823242
+				}
+			},
+			"guid": "fd03b7c5-6fa3-51cb-3098-c8d1e999e275",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "d76dee33-6eee-faeb-da69-e2a311dda81c",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -313.7795715332,
+					"y": 285.61309814453,
+					"z": -262.58117675781
+				}
+			},
+			"guid": "D76DEE33-6EEE-FAEB-DA69-E2A311DDA81D",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -286.0090637207,
+					"y": 282.43594360352,
+					"z": -322.78570556641
+				}
+			},
+			"guid": "ac181ef0-2bfe-9813-89f1-d6aa5cedbb45",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -314.60803222656,
+					"y": 277.95556640625,
+					"z": -257.32067871094
+				}
+			},
+			"guid": "a130f556-30f8-2d89-431f-753e1d5eb734",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "db697b56-9045-b0bd-c384-389d5ee63542",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "DB697B56-9045-B0BD-C384-389D5EE63544",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.76583862305,
+					"y": 285.93869018555,
+					"z": -352.28753662109
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "fee206dc-a7e1-af44-6e8e-09cb4ccfeb7a",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "FEE206DC-A7E1-AF44-6E8E-9CB4CCFEB70C",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -282.12466430664,
+					"y": 285.93869018555,
+					"z": -357.64636230469
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.04983520508,
+					"y": 282.11309814453,
+					"z": -258.85144042969
+				}
+			},
+			"guid": "0b721e0c-04a4-a931-0824-09bb8d473546",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "2cffc707-f2e4-4930-04ce-8512a039a30e",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "2CFFC707-F2E4-4930-04CE-8512A039A310",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.869140625,
+					"y": 290.06948852539,
+					"z": -360.20742797852
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -320.59664916992,
+					"y": 282.43594360352,
+					"z": -327.19342041016
+				}
+			},
+			"guid": "81cacfce-4962-8d77-87d7-85bcd8a69825",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "412e7d15-3f9b-3f1c-ccb7-0ed466d9e3af",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "412E7D15-3F9B-3F1C-CCB7-ED466D9E3B01",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.50366210938,
+					"y": 285.93594360352,
+					"z": -328.38973999023
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -302.79736328125,
+					"y": 282.43594360352,
+					"z": -322.5905456543
+				}
+			},
+			"guid": "f646d38a-af9f-4d20-4b20-055f798705a5",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "6F82E269-9815-4D83-8F5C-A8F6E75A2503",
+				"partitionGuid": "AE8637F4-427F-11E1-BEBB-E421CCF19395",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "AE8637F4-427F-11E1-BEBB-E421CCF19395",
+				"guid": "4712c747-1699-3066-8d27-19dfa1e6e928",
+				"primaryInstanceGuid": "170B1744-D913-A2C4-68F6-BA296FE5F24D",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "XP2/Objects/Spotlight_01/Spotlight_01_Lamp",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "7A5085A5-C139-D191-256A-0110720D93E8",
+				"partitionGuid": "9294033A-41CC-11E1-87E0-9235582E23D4",
+				"name": "XP2/Objects/Spotlight_01/Spotlight_01_Lamp"
+			},
+			"transform": {
+				"left": {
+					"x": 1.0606601238251,
+					"y": 0,
+					"z": -1.0606601238251
+				},
+				"up": {
+					"x": 0,
+					"y": 1.5,
+					"z": 0
+				},
+				"forward": {
+					"x": 1.0606601238251,
+					"y": 0,
+					"z": 1.0606601238251
+				},
+				"trans": {
+					"x": -294.73565673828,
+					"y": 285.02853393555,
+					"z": -338.41873168945
+				}
+			},
+			"guid": "4712C747-1699-3066-8D27-19DFA1E6E929",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.09295654297,
+					"y": 282.43594360352,
+					"z": -322.6897277832
+				}
+			},
+			"guid": "70dc49bd-d6d3-5022-7273-82f606f6d7c7",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8ef53541-e7ca-d785-18c1-bf2367aec8bd",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -322.09677124023,
+					"y": 281.45556640625,
+					"z": -290.26419067383
+				}
+			},
+			"guid": "8EF53541-E7CA-D785-18C1-BF2367AEC8BE",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "0b721e0c-04a4-a931-0824-09bb8d473546",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.04983520508,
+					"y": 285.61309814453,
+					"z": -258.85144042969
+				}
+			},
+			"guid": "0B721E0C-04A4-A931-0824-9BB8D4735408",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "9831bb95-bf2d-de41-69d6-9666d815a14a",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "9831BB95-BF2D-DE41-69D6-9666D815A14B",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.80032348633,
+					"y": 285.61309814453,
+					"z": -265.78778076172
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "ac181ef0-2bfe-9813-89f1-d6aa5cedbb45",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -286.0090637207,
+					"y": 285.93594360352,
+					"z": -322.78570556641
+				}
+			},
+			"guid": "AC181EF0-2BFE-9813-89F1-D6AA5CEDBB47",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "e7dd2d4e-69cf-d8a9-6a76-3dd7110bdeb9",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.75091552734,
+					"y": 281.45556640625,
+					"z": -286.13031005859
+				}
+			},
+			"guid": "E7DD2D4E-69CF-D8A9-6A76-3DD7110BDEBA",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -319.38137817383,
+					"y": 277.95556640625,
+					"z": -286.7502746582
+				}
+			},
+			"guid": "5fc44601-b46b-c0d3-07da-f14c45785aaf",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -305.3410949707,
+					"y": 277.95556640625,
+					"z": -261.76834106445
+				}
+			},
+			"guid": "21dd40a9-384c-72fa-2d50-f70941db9533",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a7bd8462-b8e6-8181-f4d3-572b841ba191",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A7BD8462-B8E6-8181-F4D3-572B841BA193",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.90789794922,
+					"y": 281.45556640625,
+					"z": -227.27195739746
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -322.09677124023,
+					"y": 277.95556640625,
+					"z": -290.26419067383
+				}
+			},
+			"guid": "8ef53541-e7ca-d785-18c1-bf2367aec8bd",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "485651b5-461b-c88e-f5bf-46181f59ba3a",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -280.61248779297,
+					"y": 290.09188842773,
+					"z": -356.09951782227
+				}
+			},
+			"guid": "485651B5-461B-C88E-F5BF-46181F59BA3B",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8c071298-eefb-d3f7-2b4a-b178119d9e91",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "8C071298-EEFB-D3F7-2B4A-B178119D9E92",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -327.47021484375,
+					"y": 281.45556640625,
+					"z": -284.89074707031
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "282744cc-a16a-ffa1-bfcd-806e41ead432",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.51904296875,
+					"y": 285.93594360352,
+					"z": -339.62631225586
+				}
+			},
+			"guid": "282744CC-A16A-FFA1-BFCD-806E41EAD433",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "da89b694-8ea2-6e5b-e5d0-1d6714655121",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -275.99099731445,
+					"y": 290.09188842773,
+					"z": -351.47802734375
+				}
+			},
+			"guid": "DA89B694-8EA2-6E5B-E5D0-1D6714655122",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "0975d040-df52-a3dd-0028-1303c796c14b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "0975D040-DF52-A3DD-0028-1303C796C14D",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -298.90374755859,
+					"y": 281.45556640625,
+					"z": -239.99612426758
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "db697b56-9045-b0bd-c384-389d5ee63542",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.76583862305,
+					"y": 285.93869018555,
+					"z": -352.28753662109
+				}
+			},
+			"guid": "DB697B56-9045-B0BD-C384-389D5EE63543",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "93ad441a-8277-afea-2d81-6b81c77333f8",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "93AD441A-8277-AFEA-2D81-6B81C77333FA",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -303.265625,
+					"y": 281.45556640625,
+					"z": -287.16644287109
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "6ae988d9-f7af-3108-327a-7c52e69586ac",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "6AE988D9-F7AF-3108-327A-7C52E69586AE",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -318.90377807617,
+					"y": 285.60803222656,
+					"z": -319.92272949219
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "872748a8-4b6e-02f6-0eb3-d0b20b47410d",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "872748A8-4B6E-02F6-0EB3-D0B20B47410E",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -328.77590942383,
+					"y": 281.45556640625,
+					"z": -305.47122192383
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.50366210938,
+					"y": 282.43594360352,
+					"z": -328.38973999023
+				}
+			},
+			"guid": "412e7d15-3f9b-3f1c-ccb7-0ed466d9e3af",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "3bb86f93-120b-03f6-c1a2-78b22c6d6d31",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "3BB86F93-120B-03F6-C1A2-78B22C6D6D33",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.60284423828,
+					"y": 285.93594360352,
+					"z": -318.19961547852
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -267.11148071289,
+					"y": 286.59188842773,
+					"z": -352.30303955078
+				}
+			},
+			"guid": "9e26d24e-35d2-e37c-09e2-657790bcad5b",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.33746337891,
+					"y": 277.95556640625,
+					"z": -248.32260131836
+				}
+			},
+			"guid": "6d188d7c-64e9-6d3c-124f-943b1c64fe24",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -275.99099731445,
+					"y": 286.59188842773,
+					"z": -351.47802734375
+				}
+			},
+			"guid": "da89b694-8ea2-6e5b-e5d0-1d6714655121",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "cba615ff-e765-ead8-b4c7-7e9b10fb1cb8",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -324.52117919922,
+					"y": 285.60803222656,
+					"z": -314.30532836914
+				}
+			},
+			"guid": "CBA615FF-E765-EAD8-B4C7-7E9B10FB1CBA",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "0975d040-df52-a3dd-0028-1303c796c14b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -298.90374755859,
+					"y": 281.45556640625,
+					"z": -239.99612426758
+				}
+			},
+			"guid": "0975D040-DF52-A3DD-0028-1303C796C14C",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.07699584961,
+					"y": 277.95556640625,
+					"z": -233.10287475586
+				}
+			},
+			"guid": "861b7c29-259f-f547-13cc-6d268574809b",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -308.54974365234,
+					"y": 277.95556640625,
+					"z": -263.37896728516
+				}
+			},
+			"guid": "965a72c8-9994-f225-c0ce-5b8b44d10044",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "da89b694-8ea2-6e5b-e5d0-1d6714655121",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -275.99099731445,
+					"y": 290.09188842773,
+					"z": -351.47802734375
+				}
+			},
+			"guid": "DA89B694-8EA2-6E5B-E5D0-1D6714655123",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "4fa8ea02-8b35-080c-a339-9707a7f802c3",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -298.77301025391,
+					"y": 285.58999633789,
+					"z": -263.2848815918
+				}
+			},
+			"guid": "4FA8EA02-8B35-080C-A339-9707A7F802C5",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "d911e84c-b278-97bc-a022-4c0266b2ae9b",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "D911E84C-B278-97BC-A022-4C0266B2AE9C",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -270.86489868164,
+					"y": 290.06948852539,
+					"z": -366.21166992188
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "af9394b2-292d-9658-329a-e8260efc7dc0",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -261.51229858398,
+					"y": 285.93869018555,
+					"z": -359.36499023438
+				}
+			},
+			"guid": "AF9394B2-292D-9658-329A-E8260EFC7DC2",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a130f556-30f8-2d89-431f-753e1d5eb734",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A130F556-30F8-2D89-431F-753E1D5EB735",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -314.60803222656,
+					"y": 281.45556640625,
+					"z": -257.32067871094
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "1b71f0ff-38f4-1aa7-9a1b-a4ccc1c187e5",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.74465942383,
+					"y": 281.45556640625,
+					"z": -258.17190551758
+				}
+			},
+			"guid": "1B71F0FF-38F4-1AA7-9A1B-A4CCC1C187E7",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a8e20531-80f0-291b-c0dd-12f523b3de2e",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A8E20531-80F0-291B-C0DD-12F523B3DE30",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.83987426758,
+					"y": 281.45556640625,
+					"z": -294.74069213867
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "06f25cd2-c3c0-5030-1072-41244564cf43",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.72903442383,
+					"y": 290.06948852539,
+					"z": -372.07580566406
+				}
+			},
+			"guid": "06F25CD2-C3C0-5030-1072-41244564CF45",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 1,
+			"originalRef": {
+				"instanceGuid": "C9153749-C455-45EE-B3AA-E71979F5C6D9",
+				"partitionGuid": "A30ABEE4-3971-40B2-B6FD-AF6B70BDF21D",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "A30ABEE4-3971-40B2-B6FD-AF6B70BDF21D",
+				"guid": "ED170122-0000-0000-0000-001713625026",
+				"primaryInstanceGuid": "37CECD7F-91B8-488D-96CE-B69D61CDD0F5",
+				"typeName": "WorldPartData"
+			},
+			"variation": 0,
+			"name": "Props/InteriorProps/CardboardBoxes_02/CardboardBoxes_02a",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "9037BDD2-122B-11DE-A4A6-8187A0F2A67C",
+				"partitionGuid": "9037BDD1-122B-11DE-A4A6-8187A0F2A67C",
+				"name": "Props/InteriorProps/CardboardBoxes_02/CardboardBoxes_02a"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": -0.99757438898087,
+					"z": -0.069609269499779
+				},
+				"forward": {
+					"y": 0,
+					"x": 0.069609269499779,
+					"z": -0.99757438898087
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 271.22915649414,
+					"x": -250.12033081055,
+					"z": -155.02629089355
+				}
+			},
+			"guid": "ED170122-0000-0000-0000-001376636831",
+			"transform": {
+				"left": {
+					"x": -0.99757438898087,
+					"y": 0,
+					"z": -0.069609269499779
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.069609269499779,
+					"y": 0,
+					"z": -0.99757438898087
+				},
+				"trans": {
+					"x": -250.12033081055,
+					"y": 271.22915649414,
+					"z": -155.02629089355
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "2ca5e684-b2df-baa5-0781-46f639dd356b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "2CA5E684-B2DF-BAA5-0781-46F639DD356D",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -313.02529907227,
+					"y": 281.45556640625,
+					"z": -269.0832824707
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "485651b5-461b-c88e-f5bf-46181f59ba3a",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -280.61248779297,
+					"y": 290.09188842773,
+					"z": -356.09951782227
+				}
+			},
+			"guid": "485651B5-461B-C88E-F5BF-46181F59BA3C",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "9e26d24e-35d2-e37c-09e2-657790bcad5b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "9E26D24E-35D2-E37C-09E2-657790BCAD5C",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -267.11148071289,
+					"y": 290.09188842773,
+					"z": -352.30303955078
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "1b71f0ff-38f4-1aa7-9a1b-a4ccc1c187e5",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.74465942383,
+					"y": 281.45556640625,
+					"z": -258.17190551758
+				}
+			},
+			"guid": "1B71F0FF-38F4-1AA7-9A1B-A4CCC1C187E6",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "304a4496-4d73-08ec-73f9-f45e59c39b10",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -271.96374511719,
+					"y": 290.09188842773,
+					"z": -347.45077514648
+				}
+			},
+			"guid": "304A4496-4D73-08EC-73F9-F45E59C39B12",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "d911e84c-b278-97bc-a022-4c0266b2ae9b",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "D911E84C-B278-97BC-A022-4C0266B2AE9D",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -270.86489868164,
+					"y": 290.06948852539,
+					"z": -366.21166992188
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -327.35205078125,
+					"y": 282.10803222656,
+					"z": -311.47445678711
+				}
+			},
+			"guid": "56041647-210f-b50e-c1df-29de43be827d",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -270.86489868164,
+					"y": 282.09948730469,
+					"z": -366.21166992188
+				}
+			},
+			"guid": "d911e84c-b278-97bc-a022-4c0266b2ae9b",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "87251820-f995-a640-f154-b9ba45a8326e",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.24237060547,
+					"y": 285.93594360352,
+					"z": -331.95419311523
+				}
+			},
+			"guid": "87251820-F995-A640-F154-B9BA45A83270",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "6d188d7c-64e9-6d3c-124f-943b1c64fe24",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "6D188D7C-64E9-6D3C-124F-943B1C64FE25",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.33746337891,
+					"y": 281.45556640625,
+					"z": -248.32260131836
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.36386108398,
+					"y": 282.43594360352,
+					"z": -332.91198730469
+				}
+			},
+			"guid": "cf3ce9a3-6084-ad4d-668f-70f7376dcd4e",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.60284423828,
+					"y": 282.43594360352,
+					"z": -318.19961547852
+				}
+			},
+			"guid": "3bb86f93-120b-03f6-c1a2-78b22c6d6d31",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "6A8CF73E-6A24-4582-8765-F7A161367596",
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"guid": "d0cfcb43-e128-8b5f-267c-f886452f3822",
+				"primaryInstanceGuid": "60DB9BD1-F969-4C77-2272-F3F5850E1460",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Vehicles/Villa_SUV/Villa_SUV_01_static_DoorBR",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "CD362B45-CD21-C2E2-A0E0-26034FB5FE44",
+				"partitionGuid": "A9BB0E44-BDEA-11E0-9DA3-FB913CDC6349",
+				"name": "Vehicles/Villa_SUV/Villa_SUV_01_static_DoorBR"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 1.093017578125,
+					"x": -0.96245378255844,
+					"z": -0.24046762287617
+				}
+			},
+			"guid": "D0CFCB43-E128-8B5F-267C-F886452F3825",
+			"transform": {
+				"left": {
+					"x": 0.82305699586868,
+					"y": 0,
+					"z": 0.56795877218246
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.56795877218246,
+					"y": 0,
+					"z": 0.82305699586868
+				},
+				"trans": {
+					"x": -270.0588684082,
+					"y": 275.75402832031,
+					"z": -216.80033874512
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "44c91df6-1e26-2975-8320-09110d956109",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "44C91DF6-1E26-2975-8320-9110D956100A",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -278.71151733398,
+					"y": 285.93594360352,
+					"z": -329.17602539062
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "c775382d-f19f-0bc6-d95c-7bff862a7617",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "C775382D-F19F-0BC6-D95C-7BFF862A7619",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -323.38400268555,
+					"y": 281.45556640625,
+					"z": -300.07931518555
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "81cacfce-4962-8d77-87d7-85bcd8a69825",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -320.59664916992,
+					"y": 285.93594360352,
+					"z": -327.19342041016
+				}
+			},
+			"guid": "81CACFCE-4962-8D77-87D7-85BCD8A69827",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "f533b4b5-9f10-1dd8-48dc-1c895c2240cc",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -309.11935424805,
+					"y": 285.58999633789,
+					"z": -273.03701782227
+				}
+			},
+			"guid": "F533B4B5-9F10-1DD8-48DC-1C895C2240CD",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -298.77301025391,
+					"y": 277.61999511719,
+					"z": -263.2848815918
+				}
+			},
+			"guid": "4fa8ea02-8b35-080c-a339-9707a7f802c3",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -322.75360107422,
+					"y": 282.10803222656,
+					"z": -306.87600708008
+				}
+			},
+			"guid": "ff5fa084-c6f7-302f-4b85-d93aa8d917b4",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -306.25210571289,
+					"y": 277.61999511719,
+					"z": -270.21374511719
+				}
+			},
+			"guid": "99215337-265c-f894-34eb-66e6f5a4926a",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.93206787109,
+					"y": 277.95556640625,
+					"z": -243.88887023926
+				}
+			},
+			"guid": "906e67c2-2bc6-f7eb-0fc1-1a347ae065ce",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "6d188d7c-64e9-6d3c-124f-943b1c64fe24",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -288.33746337891,
+					"y": 281.45556640625,
+					"z": -248.32260131836
+				}
+			},
+			"guid": "6D188D7C-64E9-6D3C-124F-943B1C64FE26",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8b68fef7-30b8-7379-23f6-e5b57448a3eb",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "8B68FEF7-30B8-7379-23F6-E5B57448A3EC",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -284.63973999023,
+					"y": 290.09188842773,
+					"z": -360.12677001953
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "1e5882b4-dc2f-1903-0444-70052ebbad42",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "1E5882B4-DC2F-1903-0444-70052EBBAD43",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -279.04495239258,
+					"y": 290.09188842773,
+					"z": -349.54217529297
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "7546759b-6456-6a4e-239b-27953167ec54",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -331.76025390625,
+					"y": 285.60803222656,
+					"z": -307.06625366211
+				}
+			},
+			"guid": "7546759B-6456-6A4E-239B-27953167EC56",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "32401978-bc1c-5a26-2aa9-873cf998739b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -256.13296508789,
+					"y": 275.06369018555,
+					"z": -154.15908813477
+				}
+			},
+			"guid": "32401978-BC1C-5A26-2AA9-873CF998739C",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "40EA99FE-0246-4E72-869B-7D886207BEFF",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "f533b4b5-9f10-1dd8-48dc-1c895c2240cc",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "1ECB04A3-850A-4E80-BDE0-C8A0E6E9BF82",
+				"partitionGuid": "7F0E8734-31F7-4C3B-8CFC-49EEA95DE516",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler_FarUp_Elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -309.11935424805,
+					"y": 285.58999633789,
+					"z": -273.03701782227
+				}
+			},
+			"guid": "F533B4B5-9F10-1DD8-48DC-1C895C2240CE",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "32e335c8-ea63-104f-1d6e-a495e7eaebb0",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "32E335C8-EA63-104F-1D6E-A495E7EAEBB1",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.91882324219,
+					"y": 281.45556640625,
+					"z": -265.18975830078
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "3b34e272-2f8c-49c5-bd86-010cf9993c00",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 7.9700012207031,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "3B34E272-2F8C-49C5-BD86-10CF9993C001",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -292.92251586914,
+					"y": 285.58999633789,
+					"z": -257.78442382812
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -279.04495239258,
+					"y": 286.59188842773,
+					"z": -349.54217529297
+				}
+			},
+			"guid": "1e5882b4-dc2f-1903-0444-70052ebbad42",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "872748a8-4b6e-02f6-0eb3-d0b20b47410d",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -328.77590942383,
+					"y": 281.45556640625,
+					"z": -305.47122192383
+				}
+			},
+			"guid": "872748A8-4B6E-02F6-0EB3-D0B20B47410F",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -303.265625,
+					"y": 277.95556640625,
+					"z": -287.16644287109
+				}
+			},
+			"guid": "93ad441a-8277-afea-2d81-6b81c77333f8",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -293.37579345703,
+					"y": 286.59188842773,
+					"z": -343.91244506836
+				}
+			},
+			"guid": "3a2fb056-f683-185b-2ccb-687790504ba3",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "5fc44601-b46b-c0d3-07da-f14c45785aaf",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -319.38137817383,
+					"y": 281.45556640625,
+					"z": -286.7502746582
+				}
+			},
+			"guid": "5FC44601-B46B-C0D3-07DA-F14C45785AB1",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "21dd40a9-384c-72fa-2d50-f70941db9533",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -305.3410949707,
+					"y": 281.45556640625,
+					"z": -261.76834106445
+				}
+			},
+			"guid": "21DD40A9-384C-72FA-2D50-F70941DB9535",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "5fc44601-b46b-c0d3-07da-f14c45785aaf",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -319.38137817383,
+					"y": 281.45556640625,
+					"z": -286.7502746582
+				}
+			},
+			"guid": "5FC44601-B46B-C0D3-07DA-F14C45785AB0",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.83987426758,
+					"y": 277.95556640625,
+					"z": -294.74069213867
+				}
+			},
+			"guid": "a8e20531-80f0-291b-c0dd-12f523b3de2e",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.80032348633,
+					"y": 282.11309814453,
+					"z": -265.78778076172
+				}
+			},
+			"guid": "9831bb95-bf2d-de41-69d6-9666d815a14a",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8e8c0444-6264-56af-fc58-429b96e7db80",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "8E8C0444-6264-56AF-FC58-429B96E7DB81",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.19039916992,
+					"y": 281.45556640625,
+					"z": -260.73831176758
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "8e8c0444-6264-56af-fc58-429b96e7db80",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "8E8C0444-6264-56AF-FC58-429B96E7DB82",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.19039916992,
+					"y": 281.45556640625,
+					"z": -260.73831176758
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "30CE78EC-8104-4211-9258-58692CBC9A31",
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"guid": "d0cfcb43-e128-8b5f-267c-f886452f3822",
+				"primaryInstanceGuid": "60DB9BD1-F969-4C77-2272-F3F5850E1460",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Vehicles/Villa_SUV/Villa_SUV_01_static",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "79BA3B8A-C754-7970-3F12-117623215F69",
+				"partitionGuid": "F22E0B1C-A6DA-11E0-9886-C00AA57F146A",
+				"name": "Vehicles/Villa_SUV/Villa_SUV_01_static"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 0,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "D0CFCB43-E128-8B5F-267C-F886452F3823",
+			"transform": {
+				"left": {
+					"x": 0.82305699586868,
+					"y": 0,
+					"z": 0.56795877218246
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.56795877218246,
+					"y": 0,
+					"z": 0.82305699586868
+				},
+				"trans": {
+					"x": -269.40328979492,
+					"y": 274.66101074219,
+					"z": -216.05578613281
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "ac181ef0-2bfe-9813-89f1-d6aa5cedbb45",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -286.0090637207,
+					"y": 285.93594360352,
+					"z": -322.78570556641
+				}
+			},
+			"guid": "AC181EF0-2BFE-9813-89F1-D6AA5CEDBB46",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -278.71151733398,
+					"y": 282.43594360352,
+					"z": -329.17602539062
+				}
+			},
+			"guid": "44c91df6-1e26-2975-8320-09110d956109",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "ab186e95-5e9e-2dc0-b8a0-33c1b4671ccf",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "AB186E95-5E9E-2DC0-B8A0-33C1B4671CD1",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.52502441406,
+					"y": 281.45556640625,
+					"z": -273.45513916016
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "70dc49bd-d6d3-5022-7273-82f606f6d7c7",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -316.09295654297,
+					"y": 285.93594360352,
+					"z": -322.6897277832
+				}
+			},
+			"guid": "70DC49BD-D6D3-5022-7273-82F606F6D7C8",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "d76dee33-6eee-faeb-da69-e2a311dda81c",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "D76DEE33-6EEE-FAEB-DA69-E2A311DDA81E",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -313.7795715332,
+					"y": 285.61309814453,
+					"z": -262.58117675781
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "906e67c2-2bc6-f7eb-0fc1-1a347ae065ce",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.93206787109,
+					"y": 281.45556640625,
+					"z": -243.88887023926
+				}
+			},
+			"guid": "906E67C2-2BC6-F7EB-0FC1-1A347AE065D0",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "fda46e4d-f969-0684-4974-830bb09dc9ae",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "FDA46E4D-F969-0684-4974-830BB09DC9B0",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -296.79809570312,
+					"y": 281.45556640625,
+					"z": -229.40957641602
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7F1D7B80-1485-4B89-B96E-9E445A1FC23B",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"guid": "2cffc707-f2e4-4930-04ce-8512a039a30e",
+				"primaryInstanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.869140625,
+					"y": 290.06948852539,
+					"z": -360.20742797852
+				}
+			},
+			"guid": "2CFFC707-F2E4-4930-04CE-8512A039A30F",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "9e26d24e-35d2-e37c-09e2-657790bcad5b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "9E26D24E-35D2-E37C-09E2-657790BCAD5D",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -267.11148071289,
+					"y": 290.09188842773,
+					"z": -352.30303955078
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "7546759b-6456-6a4e-239b-27953167ec54",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "7546759B-6456-6A4E-239B-27953167EC55",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -331.76025390625,
+					"y": 285.60803222656,
+					"z": -307.06625366211
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "412e7d15-3f9b-3f1c-ccb7-0ed466d9e3af",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "412E7D15-3F9B-3F1C-CCB7-ED466D9E3B00",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -311.50366210938,
+					"y": 285.93594360352,
+					"z": -328.38973999023
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "2ca5e684-b2df-baa5-0781-46f639dd356b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "2CA5E684-B2DF-BAA5-0781-46F639DD356C",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -313.02529907227,
+					"y": 281.45556640625,
+					"z": -269.0832824707
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -296.79809570312,
+					"y": 277.95556640625,
+					"z": -229.40957641602
+				}
+			},
+			"guid": "fda46e4d-f969-0684-4974-830bb09dc9ae",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -292.92251586914,
+					"y": 277.61999511719,
+					"z": -257.78442382812
+				}
+			},
+			"guid": "3b34e272-2f8c-49c5-bd86-010cf9993c00",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "84fff579-6860-3921-8288-cea23fad8000",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -317.81088256836,
+					"y": 281.45556640625,
+					"z": -294.50619506836
+				}
+			},
+			"guid": "84FFF579-6860-3921-8288-CEA23FAD8001",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "282744cc-a16a-ffa1-bfcd-806e41ead432",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -301.51904296875,
+					"y": 285.93594360352,
+					"z": -339.62631225586
+				}
+			},
+			"guid": "282744CC-A16A-FFA1-BFCD-806E41EAD434",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "3a2fb056-f683-185b-2ccb-687790504ba3",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -293.37579345703,
+					"y": 290.09188842773,
+					"z": -343.91244506836
+				}
+			},
+			"guid": "3A2FB056-F683-185B-2CCB-687790504BA5",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "c6eaeade-8442-ccf9-f6a7-4ea5100bcf4b",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "C6EAEADE-8442-CCF9-F6A7-4EA5100BCF4C",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -315.45199584961,
+					"y": 285.93594360352,
+					"z": -332.33807373047
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "39833994-8b18-2b42-ded1-a7d3b7da1906",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -294.20867919922,
+					"y": 285.93594360352,
+					"z": -322.87051391602
+				}
+			},
+			"guid": "39833994-8B18-2B42-DED1-A7D3B7DA1908",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "906e67c2-2bc6-f7eb-0fc1-1a347ae065ce",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -283.93206787109,
+					"y": 281.45556640625,
+					"z": -243.88887023926
+				}
+			},
+			"guid": "906E67C2-2BC6-F7EB-0FC1-1A347AE065CF",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "aa8a4f14-f335-2a1b-18b1-1dc5d71967d0",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "AA8A4F14-F335-2A1B-18B1-1DC5D71967D2",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -294.13815307617,
+					"y": 285.93594360352,
+					"z": -330.54949951172
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "7C94911F-1923-4315-A9EB-471068755969",
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "26ED1B7C-C26A-11E0-9F8C-EA7A318D35D4",
+				"guid": "d0cfcb43-e128-8b5f-267c-f886452f3822",
+				"primaryInstanceGuid": "60DB9BD1-F969-4C77-2272-F3F5850E1460",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Vehicles/Villa_SUV/Villa_SUV_01_static_DoorBL",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "6A740839-8376-CA10-9E78-B5A1DF3E3854",
+				"partitionGuid": "90FAAAF2-BDEA-11E0-9DA3-FB913CDC6349",
+				"name": "Vehicles/Villa_SUV/Villa_SUV_01_static_DoorBL"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 1.2024841308594,
+					"x": 0.84791964292526,
+					"z": -0.26783621311188
+				}
+			},
+			"guid": "D0CFCB43-E128-8B5F-267C-F886452F3824",
+			"transform": {
+				"left": {
+					"x": 0.82305699586868,
+					"y": 0,
+					"z": 0.56795877218246
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.56795877218246,
+					"y": 0,
+					"z": 0.82305699586868
+				},
+				"trans": {
+					"x": -268.55328369141,
+					"y": 275.86349487305,
+					"z": -215.7946472168
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "8949D797-0A1A-43B3-9ECC-A2D81920AD88",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "a9e7bb6a-a00d-fcab-3b25-438283a695e3",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler",
+			"blueprintCtrRef": {
+				"typeName": "EffectBlueprint",
+				"instanceGuid": "AE1A47B4-B71E-41BB-A0FD-897BD8F111EC",
+				"partitionGuid": "2201A624-F630-455D-B8A8-7DFFAC62589B",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/FX_DLC_Sprinkler"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "A9E7BB6A-A00D-FCAB-3B25-438283A695E4",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -278.11151123047,
+					"y": 281.45556640625,
+					"z": -238.06834411621
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "0297d6c5-5283-677e-713c-30bf3022bc63",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"variation": 0,
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"localTransform": {
+				"left": {
+					"y": 0,
+					"x": 1,
+					"z": 0
+				},
+				"forward": {
+					"y": 0,
+					"x": 0,
+					"z": 1
+				},
+				"up": {
+					"y": 1,
+					"x": 0,
+					"z": 0
+				},
+				"trans": {
+					"y": 3.5,
+					"x": 0,
+					"z": 0
+				}
+			},
+			"guid": "0297D6C5-5283-677E-713C-30BF3022BC65",
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -326.16616821289,
+					"y": 281.45556640625,
+					"z": -302.86148071289
+				}
+			},
+			"overrides": {}
+		},
+		{
+			"origin": 3,
+			"originalRef": {
+				"instanceGuid": "1D746664-31E1-4D09-9465-26442C2BEAF5",
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"typeName": "ReferenceObjectData"
+			},
+			"parentData": {
+				"partitionGuid": "FC575836-F559-4EC0-B536-5273AF4B51F5",
+				"guid": "e7dd2d4e-69cf-d8a9-6a76-3dd7110bdeb9",
+				"primaryInstanceGuid": "46B82AED-DCCF-4F32-9245-95C7D71D1FC3",
+				"typeName": "SpatialPrefabBlueprint"
+			},
+			"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest",
+			"blueprintCtrRef": {
+				"typeName": "ObjectBlueprint",
+				"instanceGuid": "2D294463-F918-4864-A6D7-EBC076E18ABE",
+				"partitionGuid": "FCDCB9F7-E0E6-4BD1-A9F9-23EA17D0DB58",
+				"name": "Objects/InteriorDetails/OfficeDetails_01/Sprinkler_Single_02_Dest"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -310.75091552734,
+					"y": 281.45556640625,
+					"z": -286.13031005859
+				}
+			},
+			"guid": "E7DD2D4E-69CF-D8A9-6A76-3DD7110BDEBB",
+			"variation": 0,
+			"overrides": {}
+		},
+		{
+			"origin": 2,
+			"originalRef": {
+				"partitionGuid": "nil",
+				"instanceGuid": "nil"
+			},
+			"parentData": {
+				"partitionGuid": "00000000-0000-0000-0000-000000000000",
+				"guid": "00000000-0000-0000-0000-000000000000",
+				"primaryInstanceGuid": "00000000-0000-0000-0000-000000000000",
+				"typeName": "custom_root"
+			},
+			"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator",
+			"blueprintCtrRef": {
+				"typeName": "SpatialPrefabBlueprint",
+				"instanceGuid": "6301AED9-8006-4CFB-9264-B3E7B894DC8E",
+				"partitionGuid": "2B75D725-9B72-45DF-993A-FF2C259B9192",
+				"name": "FX/DLC/XP2/Ambient/LevelSpecific/MP_Skybar/Sprinkler_Prefab_FarUp_elevator"
+			},
+			"transform": {
+				"left": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": -0.70710676908493
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.70710676908493,
+					"y": 0,
+					"z": 0.70710676908493
+				},
+				"trans": {
+					"x": -276.72903442383,
+					"y": 282.09948730469,
+					"z": -372.07580566406
+				}
+			},
+			"guid": "06f25cd2-c3c0-5030-1072-41244564cf43",
+			"variation": 0,
+			"overrides": {}
 		}
 	],
 	"header": {
