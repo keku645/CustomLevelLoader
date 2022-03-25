@@ -200,7 +200,7 @@ local function GetCustomLevel(p_LevelName, p_GameModeName)
 	local s_Preset = json.decode(s_PresetJson)
 
 	if not s_Preset then
-		error('Couldn\'t decode json preset')
+		--error('Couldn\'t decode json preset')
 		return nil
 	end
 
