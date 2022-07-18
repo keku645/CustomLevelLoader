@@ -1,12 +1,19 @@
 ---@class CustomLevelLoaderConfig
 ---@field USE_HTTP boolean
----@field HTTP_ROOT string
+---@field MIRRORS string[]
+---@field LOGGER_ENABLED boolean
 local Config = require "__shared/Config"
 
+local print = function(p_Message, p_IsWarning)
+	if Config.LOGGER_ENABLED or p_IsWarning then
+		print(p_Message)
+	end
+end
+
 local GameObjectOriginType = {
- Vanilla = 1,
- Custom = 2,
- CustomChild = 3
+	Vanilla = 1,
+	Custom = 2,
+	CustomChild = 3
 }
 
 local CLIENT_TIMEOUT = 25.0
@@ -25,9 +32,14 @@ local m_ObjectVariations = {}
 local m_PendingVariations = {}
 local m_CustomLevelData = {}
 
+local m_Defaults = {
+	variation = 0,
+}
+
 local function PatchOriginalObject(p_Object, p_World)
 	if p_Object.originalRef == nil then
-		print("Object without original reference found, dynamic object?")
+		print("Object without original reference found, dynamic object?", true)
+		print(p_Object, true)
 		return
 	end
 
@@ -37,14 +49,14 @@ local function PatchOriginalObject(p_Object, p_World)
 		s_Reference = ResourceManager:SearchForInstanceByGuid(Guid(p_Object.originalRef.instanceGuid))
 
 		if s_Reference == nil then
-			print("Unable to find original reference: " .. p_Object.originalRef.instanceGuid)
+			print("Unable to find original reference: " .. p_Object.originalRef.instanceGuid, true)
 			return
 		end
 	else
 		s_Reference = ResourceManager:FindInstanceByGuid(Guid(p_Object.originalRef.partitionGuid), Guid(p_Object.originalRef.instanceGuid))
 
 		if s_Reference == nil then
-			print("Unable to find original reference: " .. p_Object.originalRef.instanceGuid .. " in partition " .. p_Object.originalRef.partitionGuid)
+			print("Unable to find original reference: " .. p_Object.originalRef.instanceGuid .. " in partition " .. p_Object.originalRef.partitionGuid, true)
 			return
 		end
 	end
@@ -67,7 +79,7 @@ local function AddCustomObject(p_Object, p_World, p_RegistryContainer)
 	local s_Blueprint = ResourceManager:FindInstanceByGuid(Guid(p_Object.blueprintCtrRef.partitionGuid), Guid(p_Object.blueprintCtrRef.instanceGuid))
 
 	if s_Blueprint == nil then
-		print('Cannot find blueprint with guid ' .. tostring(p_Object.blueprintCtrRef.instanceGuid))
+		print('Cannot find blueprint with guid ' .. tostring(p_Object.blueprintCtrRef.instanceGuid), true)
 		return
 	end
 
@@ -100,11 +112,11 @@ local function AddCustomObject(p_Object, p_World, p_RegistryContainer)
 	--print("AddCustomObject: " .. p_Object.transform)
 	s_Reference.blueprint = Blueprint(s_Blueprint)
 	-- s_Reference.blueprint:MakeWritable()
-
-	if m_ObjectVariations[p_Object.variation] == nil then
-		m_PendingVariations[p_Object.variation] = s_Reference
+	local s_Variation = p_Object.variation or m_Defaults.variation
+	if m_ObjectVariations[s_Variation] == nil then
+		m_PendingVariations[s_Variation] = s_Reference
 	else
-		s_Reference.objectVariation = m_ObjectVariations[p_Object.variation]
+		s_Reference.objectVariation = m_ObjectVariations[s_Variation]
 	end
 
 	s_Reference.indexInBlueprint = #p_World.objects + m_IndexCount + 1
@@ -169,6 +181,36 @@ local function CreateWorldPart(p_PrimaryLevel, p_RegistryContainer)
 	return s_WorldPartReference
 end
 
+---@param p_FileName string
+---@return nil|string @json table
+local function GetCustomLevelFromHttp(p_FileName)
+	if #Config.MIRRORS == 0 then
+		return nil
+	end
+
+	local s_HttpOptions = HttpOptions({}, 20)
+	--ignore cert for wine users
+	s_HttpOptions.verifyCertificate = false
+
+	for _, l_Address in ipairs(Config.MIRRORS) do
+		local s_HttpResponse = Net:GetHTTP(l_Address .. p_FileName .. ".json", s_HttpOptions)
+
+		if not s_HttpResponse then
+			print("Received no response from " .. l_Address, true)
+		elseif s_HttpResponse.status ~= 200 then
+			print("Received http status " .. tostring(s_HttpResponse.status) .. " from " .. l_Address, true)
+		else
+			return s_HttpResponse.body
+		end
+	end
+
+	print('Couldn\'t find custom level data for: ' .. p_FileName)
+	return nil
+end
+
+---@param p_LevelName string
+---@param p_GameModeName string
+---@return table|nil
 local function GetCustomLevel(p_LevelName, p_GameModeName)
 	p_LevelName = p_LevelName:gsub(".*/", "")
 	local s_FileName = p_LevelName .. '_' .. p_GameModeName
@@ -176,14 +218,11 @@ local function GetCustomLevel(p_LevelName, p_GameModeName)
 	local s_PresetJson
 
 	if Config.USE_HTTP then
-		local s_HttpResponse = Net:GetHTTP(Config.HTTP_ROOT .. s_FileName .. ".json")
+		s_PresetJson = GetCustomLevelFromHttp(s_FileName)
 
-		if not s_HttpResponse then
-			print('Couldn\'t find custom level data for Level: ' .. p_LevelName .. ' - GameMode: ' .. p_GameModeName)
+		if not s_PresetJson then
 			return nil
 		end
-
-		s_PresetJson = s_HttpResponse.body
 	else
 		local s_Path = '__shared/Levels/' .. p_LevelName .. '/' .. s_FileName
 
@@ -200,7 +239,7 @@ local function GetCustomLevel(p_LevelName, p_GameModeName)
 	local s_Preset = json.decode(s_PresetJson)
 
 	if not s_Preset then
-		--error('Couldn\'t decode json preset')
+		error('Couldn\'t decode json preset')
 		return nil
 	end
 
@@ -231,12 +270,12 @@ Events:Subscribe('Partition:Loaded', function(p_Partition)
 	local s_PrimaryInstance = p_Partition.primaryInstance
 
 	if s_PrimaryInstance == nil then
-		print('Instance is null?')
+		print('Instance is null? ' .. p_Partition.name, true)
 		return
 	end
 
 	-- if l_Instance:Is("Blueprint") then
-		--print("-------"..Blueprint(l_Instance).name)
+	--print("-------"..Blueprint(l_Instance).name)
 	-- end
 
 	if s_PrimaryInstance.typeInfo.name == "LevelData" then
@@ -268,10 +307,6 @@ end)
 
 -- nº 3 in calling order
 Events:Subscribe('Level:LoadingInfo', function(p_Info)
-	if not m_CustomLevelData then
-		return
-	end
-
 	if p_Info == "Registering entity resources" then
 		print("-----Loading Info - Registering entity resources")
 
@@ -281,14 +316,14 @@ Events:Subscribe('Level:LoadingInfo', function(p_Info)
 		end
 
 		if m_PrimaryLevelGuids == nil then
-			print("m_PrimaryLevelGuids is nil, something went wrong")
+			print("m_PrimaryLevelGuids is nil, something went wrong", true)
 			return
 		end
 
 		local s_PrimaryLevel = ResourceManager:FindInstanceByGuid(m_PrimaryLevelGuids.partitionGuid, m_PrimaryLevelGuids.instanceGuid)
 
 		if s_PrimaryLevel == nil then
-			print("Couldn\'t find PrimaryLevel DataContainer, aborting")
+			print("Couldn\'t find PrimaryLevel DataContainer, aborting", true)
 			return
 		end
 
@@ -303,7 +338,7 @@ Events:Subscribe('Level:LoadingInfo', function(p_Info)
 		local s_RegistryContainer = s_PrimaryLevel.registryContainer
 
 		if s_RegistryContainer == nil then
-			print('No registryContainer found, this shouldn\'t happen')
+			print('No registryContainer found, this shouldn\'t happen', true)
 		end
 
 		s_RegistryContainer = RegistryContainer(s_RegistryContainer)
