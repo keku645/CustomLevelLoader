@@ -1,12 +1,40 @@
 {
-	"Name": "CustomLevelLoader",
-	"Authors": ["RM Dev Team"],
-	"Description": "Load custom levels created using MapEditor",
-	"URL": "https://github.com/BF3RM/CustomLevelLoader",
-	"Version": "1.0.0",
-	"HasWebUI": false,
-	"HasVeniceEXT": true,
-	"Dependencies": {
-        "veniceext": "^1.0.0"
-    }
+  "Name": "keku_test",
+  "Authors": [
+    "RealityMod Dev Team"
+  ],
+  "Description": "Load custom levels created using MapEditor",
+  "URL": "https://github.com/BF3RM/CustomLevelLoader",
+  "Version": "1.0.0",
+  "HasWebUI": false,
+  "HasVeniceEXT": true,
+  "Dependencies": {
+    "veniceext": "^1.1.0"
+  },
+  "Superbundles": [
+    "Win32/CustomLevels/COOP_002/COOP_002",
+    "Win32/CustomLevels/COOP_006/COOP_006",
+    "Win32/CustomLevels/COOP_010/COOP_010",
+    "Win32/CustomLevels/MP_007/MP_007",
+    "Win32/CustomLevels/MP_011/MP_011",
+    "Win32/CustomLevels/MP_012/MP_012",
+    "Win32/CustomLevels/MP_013/MP_013",
+    "Win32/CustomLevels/MP_017/MP_017",
+    "Win32/CustomLevels/MP_018/MP_018",
+    "Win32/CustomLevels/MP_Subway/MP_Subway",
+    "Win32/CustomLevels/SP_Jet/SP_Jet",
+    "Win32/CustomLevels/SP_Valley/SP_Valley",
+    "Win32/CustomLevels/SP_Villa/SP_Villa",
+    "Win32/CustomLevels/XP1_002/XP1_002",
+    "Win32/CustomLevels/XP1_003/XP1_003",
+    "Win32/CustomLevels/XP1_004/XP1_004",
+    "Win32/CustomLevels/XP2_Skybar/XP2_Skybar",
+    "Win32/CustomLevels/XP3_Desert/XP3_Desert",
+    "Win32/CustomLevels/XP3_Shield/XP3_Shield",
+    "Win32/CustomLevels/XP4_FD/XP4_FD",
+    "Win32/CustomLevels/XP5_001/XP5_001",
+    "Win32/CustomLevels/XP5_002/XP5_002",
+    "Win32/CustomLevels/XP5_003/XP5_003",
+    "Win32/CustomLevels/XP5_004/XP5_004"
+  ]
 }
